@@ -1,0 +1,151 @@
+Plot Report
+-----------
+
+Report Written:     Monday, December 23, 2024
+Design Path:        C:\Users\Admin\Desktop\8W MIC SPEAKER.pcb
+Design Title:       
+Created:            23-12-2024 08:30:33
+Last Saved:         23-12-2024 08:41:46
+Editing Time:       13 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+
+
+
+Plots Output
+============
+
+
+PDF Output
+==========
+
+    Layer
+    ------------------
+    Top Documentation
+
+
+PDF Output
+==========
+
+    Layer
+    ---------------
+    Top Silkscreen
+
+
+PDF Output
+==========
+
+    Layer
+    --------------
+    Bottom Copper
+
+
+PDF Output
+==========
+
+    Layer
+    --------------
+    Bottom Copper
+
+
+PDF Output
+==========
+
+    Layer
+    --------------
+    Bottom Copper
+
+
+PDF Output
+==========
+
+    Layer
+    ------------------
+    Bottom Silkscreen
+
+
+NC Drill Output
+===============
+
+C:\Users\Admin\Desktop\8W MIC SPEAKER - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02362 in 2     C
+    T002  000.02795 in 24    H
+    T003  000.03000 in 22    B
+    T004  000.03150 in 4     G
+    T005  000.03200 in 6     A
+    T006  000.03976 in 4     E
+    T007  000.04200 in 3     F
+    T008  000.04331 in 2     D
+    ------------------------------------
+    Total              67
+    ------------------------------------
+
+C:\Users\Admin\Desktop\8W MIC SPEAKER - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+PDF Output
+==========
+
+    Layer
+    ------
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    32    Y      100  Round A
+    30    Y      100  Round B
+    24    Y      100  Round C
+    43    Y      100  Round D
+    40    Y      100  Round E
+    42    Y      100  Round F
+    31    Y      100  Round G
+    28    Y      100  Round H
+
+
+
+End Of Report.
